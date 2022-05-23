@@ -1,0 +1,15 @@
+C:\Users\sean2\source\repos\ep 7 continue\ep 7 continue\bin\Debug\net6.0\ep 7 continue.exe
+C:\Users\sean2\source\repos\ep 7 continue\ep 7 continue\bin\Debug\net6.0\ep 7 continue.deps.json
+C:\Users\sean2\source\repos\ep 7 continue\ep 7 continue\bin\Debug\net6.0\ep 7 continue.runtimeconfig.json
+C:\Users\sean2\source\repos\ep 7 continue\ep 7 continue\bin\Debug\net6.0\ep 7 continue.dll
+C:\Users\sean2\source\repos\ep 7 continue\ep 7 continue\bin\Debug\net6.0\ep 7 continue.pdb
+C:\Users\sean2\source\repos\ep 7 continue\ep 7 continue\obj\Debug\net6.0\ep 7 continue.csproj.AssemblyReference.cache
+C:\Users\sean2\source\repos\ep 7 continue\ep 7 continue\obj\Debug\net6.0\ep 7 continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sean2\source\repos\ep 7 continue\ep 7 continue\obj\Debug\net6.0\ep 7 continue.AssemblyInfoInputs.cache
+C:\Users\sean2\source\repos\ep 7 continue\ep 7 continue\obj\Debug\net6.0\ep 7 continue.AssemblyInfo.cs
+C:\Users\sean2\source\repos\ep 7 continue\ep 7 continue\obj\Debug\net6.0\ep 7 continue.csproj.CoreCompileInputs.cache
+C:\Users\sean2\source\repos\ep 7 continue\ep 7 continue\obj\Debug\net6.0\ep 7 continue.dll
+C:\Users\sean2\source\repos\ep 7 continue\ep 7 continue\obj\Debug\net6.0\refint\ep 7 continue.dll
+C:\Users\sean2\source\repos\ep 7 continue\ep 7 continue\obj\Debug\net6.0\ep 7 continue.pdb
+C:\Users\sean2\source\repos\ep 7 continue\ep 7 continue\obj\Debug\net6.0\ep 7 continue.genruntimeconfig.cache
+C:\Users\sean2\source\repos\ep 7 continue\ep 7 continue\obj\Debug\net6.0\ref\ep 7 continue.dll
